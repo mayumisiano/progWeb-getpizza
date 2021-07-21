@@ -1,0 +1,24 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+body{
+    background-color:darkslategray;
+    margin: 20px;
+}
+
+div{
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
